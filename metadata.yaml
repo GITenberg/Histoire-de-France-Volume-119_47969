@@ -1,4 +1,8 @@
 _repo: Histoire-de-France-Volume-119_47969
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47969-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Michelet, Jules
@@ -11,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jules_Michelet
     - http://fr.wikipedia.org/wiki/Jules_Michelet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47969#Histoire-de-France-Volume-119
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2015-01-13'
 gutenberg_type: Text
